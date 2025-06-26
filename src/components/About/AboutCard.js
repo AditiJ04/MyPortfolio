@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple"> Aditi Jeena </span>
             from <span className="purple"> Dehradun, India.</span>
             <br />
-            I am currently a final year BTech student at Grpahic Era Hill University Dehradun.
+            I'm a web developer with a love for building clean, responsive, and interactive websites. I'm always eager to learn new technologies and bring creative ideas to life. Let's connect and create something amazing!
             <br />
             <br />
             <br />
