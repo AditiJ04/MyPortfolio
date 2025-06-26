@@ -26,7 +26,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="PneumoDetect"
-              description="Developed a CNN-based model to detect pneumonia from chest X-ray images with 98.16% training accuracy and 100% validation accuracy. The model enables fast and reliable diagnosis, assisting doctors in providing timely treatment."
+              description="Developed a CNN-based model to detect pneumonia from chest X-ray images with 98.16% training accuracy and 100% validation accuracy. The model enables fast and reliable diagnosis, assisting doctors in providing timely treatment.This project significantly enhances diagnostic efficiency by enabling fast and accurate detection of pneumonia."
               ghLink="https://github.com/AditiJ04/PneumoDetect"
             />
           </Col>
@@ -35,9 +35,9 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Personal-Portfolio"
+              title="AditiVerse"
               description="My personal portfolio which features some of my github projects as well as my resume and technical skills. This project was built using these technologies-React.js ,Node.js, Express.js, CSS3, VsCode, Vercel. This portfolio website features a clean, multi-page layout to showcase my GitHub projects, resume, and technical skills. It is fully responsive, ensuring a seamless experience across all devices."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              ghLink="https://github.com/AditiJ04/MyPortfolio"
             />
           </Col>
 
@@ -45,9 +45,9 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Real-Time Chat Application"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"            
+              title="Talkify"
+              description="Talkify is a modern real-time chat application built using React, Node.js, Express.js, and Socket.IO. Designed for seamless and interactive conversations, Talkify allows users to exchange messages instantly without page reloads. The project highlights efficient client-server communication using Socket.IO, delivering a smooth and responsive chatting experience."
+              ghLink="https://github.com/AditiJ04/Talkify"            
             />
           </Col>
         </Row>
